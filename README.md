@@ -30,6 +30,10 @@ MagicMirror² focuses on a modular plugin system and uses [Electron](http://elec
 - [Contributing Guidelines](#contributing-guidelines)
 - [Manifesto](#manifesto)
 
+## README
+
+Copy of Michael Teeuw's repository, meant for my customization.
+
 ## Installation
 
 ### Raspberry Pi
